@@ -1,0 +1,15 @@
+C:\Users\nixim\Desktop\C--.NET-SONDA-Septiembre-2023\Asignaciones\LINQEruption\bin\Debug\net6.0\LINQEruption.exe
+C:\Users\nixim\Desktop\C--.NET-SONDA-Septiembre-2023\Asignaciones\LINQEruption\bin\Debug\net6.0\LINQEruption.deps.json
+C:\Users\nixim\Desktop\C--.NET-SONDA-Septiembre-2023\Asignaciones\LINQEruption\bin\Debug\net6.0\LINQEruption.runtimeconfig.json
+C:\Users\nixim\Desktop\C--.NET-SONDA-Septiembre-2023\Asignaciones\LINQEruption\bin\Debug\net6.0\LINQEruption.dll
+C:\Users\nixim\Desktop\C--.NET-SONDA-Septiembre-2023\Asignaciones\LINQEruption\bin\Debug\net6.0\LINQEruption.pdb
+C:\Users\nixim\Desktop\C--.NET-SONDA-Septiembre-2023\Asignaciones\LINQEruption\obj\Debug\net6.0\LINQEruption.csproj.AssemblyReference.cache
+C:\Users\nixim\Desktop\C--.NET-SONDA-Septiembre-2023\Asignaciones\LINQEruption\obj\Debug\net6.0\LINQEruption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nixim\Desktop\C--.NET-SONDA-Septiembre-2023\Asignaciones\LINQEruption\obj\Debug\net6.0\LINQEruption.AssemblyInfoInputs.cache
+C:\Users\nixim\Desktop\C--.NET-SONDA-Septiembre-2023\Asignaciones\LINQEruption\obj\Debug\net6.0\LINQEruption.AssemblyInfo.cs
+C:\Users\nixim\Desktop\C--.NET-SONDA-Septiembre-2023\Asignaciones\LINQEruption\obj\Debug\net6.0\LINQEruption.csproj.CoreCompileInputs.cache
+C:\Users\nixim\Desktop\C--.NET-SONDA-Septiembre-2023\Asignaciones\LINQEruption\obj\Debug\net6.0\LINQEruption.dll
+C:\Users\nixim\Desktop\C--.NET-SONDA-Septiembre-2023\Asignaciones\LINQEruption\obj\Debug\net6.0\refint\LINQEruption.dll
+C:\Users\nixim\Desktop\C--.NET-SONDA-Septiembre-2023\Asignaciones\LINQEruption\obj\Debug\net6.0\LINQEruption.pdb
+C:\Users\nixim\Desktop\C--.NET-SONDA-Septiembre-2023\Asignaciones\LINQEruption\obj\Debug\net6.0\LINQEruption.genruntimeconfig.cache
+C:\Users\nixim\Desktop\C--.NET-SONDA-Septiembre-2023\Asignaciones\LINQEruption\obj\Debug\net6.0\ref\LINQEruption.dll
